@@ -5,8 +5,6 @@ import tornado.ioloop
 import tornado.websocket
 import tornado.options
 
-import communication
-
 LISTEN_PORT = 8770
 LISTEN_ADDRESS = 'localhost'
 
